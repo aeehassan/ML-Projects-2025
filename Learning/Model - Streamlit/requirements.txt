@@ -1,0 +1,5 @@
+streamlit
+joblib
+scikit-learn  # if you're using sklearn models
+pandas        # if you're using pandas
+numpy         # if you're using numpy
